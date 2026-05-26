@@ -28,7 +28,7 @@ reitou
 akinukai
 eiino
 maui
-kakanie
+kakanie ←見つけました。マージしてください。
 shtoyoda
 hayamamoto
 haakashi
