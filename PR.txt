@@ -37,7 +37,7 @@ shiwase
 shendou
 aiozaki←見つけました。マージしてください
 shkondou
-tekondou
+tekondou 修正しました。マージしてください。
 ansaduka ←見つけました。マージしてください
 kotakezawa
 tohayakawa ←見つけました。マージしてください。
