@@ -29,8 +29,7 @@ akinukai
 eiino
 maui
 kakanie
-shtoyoda ←見つけましたマージしてくださ
-hayamamoto
+shtoyoda←見つけました。マージしてください
 haakashi
 yuishikawa
 shiwase
